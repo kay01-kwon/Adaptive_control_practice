@@ -2,4 +2,4 @@
 
 
 Position, Velocity, Error, and estimated mass
-<img src="Adpative_control_practice/picture/graph.jpg"?
+<img src="picture/graph.jpg">
